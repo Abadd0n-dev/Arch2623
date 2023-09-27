@@ -1,4 +1,4 @@
-package Seminar1.ModelElements;
+package Editor3d.ModelElements;
 
 import java.util.ArrayList;
 import java.util.List;

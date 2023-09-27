@@ -1,4 +1,4 @@
-package Seminar1.Stuff;
+package Editor3d.Stuff;
 
 public class Point3D {
     

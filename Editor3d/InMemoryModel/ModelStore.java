@@ -1,13 +1,13 @@
-package Seminar1.InMemoryModel;
+package Editor3d.InMemoryModel;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import Seminar1.ModelElements.Camera;
-import Seminar1.ModelElements.Flash;
-import Seminar1.ModelElements.PoligonalModel;
-import Seminar1.ModelElements.Scene;
-import Seminar1.ModelElements.Texture;
+import Editor3d.ModelElements.Camera;
+import Editor3d.ModelElements.Flash;
+import Editor3d.ModelElements.PoligonalModel;
+import Editor3d.ModelElements.Scene;
+import Editor3d.ModelElements.Texture;
 
 public class ModelStore implements IModelChanger {
 

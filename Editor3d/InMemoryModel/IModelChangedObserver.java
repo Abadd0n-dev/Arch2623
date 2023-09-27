@@ -1,4 +1,4 @@
-package Seminar1.InMemoryModel;
+package Editor3d.InMemoryModel;
 
 public interface IModelChangedObserver {
     public void applyUpdateModel();

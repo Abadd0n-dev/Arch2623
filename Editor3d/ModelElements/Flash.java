@@ -1,7 +1,7 @@
-package Seminar1.ModelElements;
+package Editor3d.ModelElements;
 
-import Seminar1.Stuff.Angle3D;
-import Seminar1.Stuff.Point3D;
+import Editor3d.Stuff.Angle3D;
+import Editor3d.Stuff.Point3D;
 
 public class Flash {
     public Point3D Location;
